@@ -1,2 +1,2 @@
-/Users/leo/Documents/droid/platforms/android/ant-build/AndroidManifest.xml : \
-/Users/leo/Documents/droid/platforms/android/AndroidManifest.xml \
+/Users/leo/Documents/DroidTest/platforms/android/ant-build/AndroidManifest.xml : \
+/Users/leo/Documents/DroidTest/platforms/android/AndroidManifest.xml \
